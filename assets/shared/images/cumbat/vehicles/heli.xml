@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heli.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Combine Helicopter0000" x="0" y="0" width="739" height="363"/>
+	<SubTexture name="Combine Helicopter0001" x="739" y="0" width="739" height="363"/>
+	<SubTexture name="Combine Helicopter0002" x="0" y="363" width="739" height="363"/>
+	<SubTexture name="Combine Helicopter0003" x="739" y="363" width="739" height="363"/>
+	<SubTexture name="Combine Helicopter0004" x="0" y="726" width="739" height="363"/>
+	<SubTexture name="Combine Helicopter0005" x="739" y="726" width="739" height="363"/>
+</TextureAtlas>
